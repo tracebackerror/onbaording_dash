@@ -25,7 +25,7 @@ SECRET_KEY = 's+h5nvs_n5^^rw+&9g%^do82&!7b8&pb@tosm)c-@&_z22*qgw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['agcshackathon.herokuapp.com', ]
 
 
 # Application definition
