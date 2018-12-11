@@ -1,1 +1,1 @@
-web: gunicorn rooftech.wsgi
+web: gunicorn onbaording_dash.wsgi
